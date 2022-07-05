@@ -1,0 +1,46 @@
+* {
+
+  background-color: rgb(253, 251, 251);
+
+}
+
+#cabecalho {
+  position: fixed;
+  top: 0%;
+
+}
+
+#titulo {
+  top: 0;
+  font-family: 'Raleway', sans-serif;
+  color: rgb(34, 34, 34);
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 35px;
+  font-style: italic;
+
+
+}
+
+img {
+  margin: 20px;
+  padding: 20px;
+  border: 2px solid black;
+}
+
+.container {
+  display: inline;
+}
+
+.lado-esquerdo {
+  width: 40%;
+  float: left;
+}
+
+.lado-direito {
+  width: 40%;
+  float: left;
+}
+
+
+
